@@ -14,7 +14,7 @@ Analyze the ATM System and identify its key actors (e.g., Customer, Bank Server)
 6.Organize components into packages using a Package Diagram for modularity.
 
 
-### USE CASE DIAGRAM 
+
 
 
 ### CLASS DIAGRAM
