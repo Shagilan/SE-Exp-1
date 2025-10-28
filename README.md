@@ -1,5 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-
+## NAME: SHAGILAN.U
+## REG NO:212224040303
 # AIM:
 To study the problem statement and SRS of an ATM System and represent its architecture using UML diagrams.
 # SRS (Procedure):
@@ -12,9 +13,7 @@ Analyze the ATM System and identify its key actors (e.g., Customer, Bank Server)
 5.Prepare the Communication Diagram showing collaboration among objects.
 6.Organize components into packages using a Package Diagram for modularity.
 
-# DIAGRAMS:
-## NAME: SHAGILAN.U
-## REG NO:212224040303
+
 ### USE CASE DIAGRAM 
 
 
