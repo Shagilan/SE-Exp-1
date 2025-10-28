@@ -35,7 +35,8 @@ Analyze the ATM System and identify its key actors (e.g., Customer, Bank Server)
 
 
 ### SEQUENCE DIAGRAM
-<img width="1035" height="918" alt="image" src="https://github.com/user-attachments/assets/b8559d17-0f04-4015-bfa4-aca28ce0c606" />
+<img width="973" height="747" alt="image" src="https://github.com/user-attachments/assets/fb77a247-b94f-4352-b5a4-5b23fd85cfa1" />
+
 
 
 ## USE CASE DIAGRAM
